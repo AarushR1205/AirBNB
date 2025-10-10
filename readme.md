@@ -40,3 +40,5 @@ This project is a web-based, two-player Tic-Tac-Toe game. Player "O" and Player 
 ├── style.css       // All CSS styling for the application
 └── app.js          // The JavaScript file containing all game logic
 ```
+<br><br>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/bee01452-8939-4583-a4b5-7db4fdebef88" />
